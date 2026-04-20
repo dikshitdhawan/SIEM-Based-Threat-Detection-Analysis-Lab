@@ -32,7 +32,7 @@ Wazuh Manager (Amazon Linux 2023)
 SOC Analysis & Visualization
 ```
 
-<img width="750" height="750" alt="Architecture" src="https://github.com/user-attachments/assets/f60239a8-e791-4b08-8c20-8042f2d70288" />
+<img width="750" height="750" alt="Architecture" src="https://github.com/dikshitdhawan/SIEM-Based-Threat-Detection-Analysis-Lab/blob/3097897423373be9ab8d4007c5549367244fa268/architecture/Architecture.png" />
 
 ________________________________________
 ⚙️ Tech Stack
