@@ -211,9 +211,5 @@ While detection of credential-based attacks was effective, limited visibility in
 
 > Add your screenshots here:
 
-```md
-![Wazuh Logs](https://github.com/dikshitdhawan/SIEM-Based-Threat-Detection-Analysis-Lab/blob/b416ee6cc1a8cad7721c177ec78bc1248542641a/screenshots/logs/logs%201.png)
-```
-
----
+![Wazuh Logs](https://raw.githubusercontent.com/dikshitdhawan/SIEM-Based-Threat-Detection-Analysis-Lab/b416ee6cc1a8cad7721c177ec78bc1248542641a/screenshots/logs/logs%201.png)
 
