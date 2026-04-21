@@ -104,11 +104,11 @@ ________________________________________
 
 📊 Dashboard Preview
 
-screenshots/dashboard/alerts-over-time.png
+![Alerts Over Time](screenshots/dashboard/Alerts%20Over%20Time.png.png)
 
-screenshots/dashboard/alerts-by-severity.png
+![Alerts by Severity](screenshots/dashboard/Alerts%20by%20Severity.png)
 
-screenshots/dashboard/top-attack-types.png
+![Top Attack Types](screenshots/dashboard/Top%20Attack%20Types.png)
 
 ________________________________________
 🔍 Key Findings
