@@ -36,6 +36,7 @@ From a behavioral standpoint, this is clearly distinguishable from normal user a
 ---
 
 ## 🔍 Observed Logs
+![Brute Force Detection](../screenshots/dashboard/SSH%20brute%20force.png)
 
 ### Key Indicators
 
