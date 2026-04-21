@@ -104,7 +104,7 @@ ________________________________________
 
 📊 Dashboard Preview
 
-![Alerts Over Time](screenshots/dashboard/Alerts%20Over%20Time.png.png)
+![Alerts Over Time](screenshots/dashboard/Alerts%20Over%20Time.png)
 
 ![Alerts by Severity](screenshots/dashboard/Alerts%20by%20Severity.png)
 
