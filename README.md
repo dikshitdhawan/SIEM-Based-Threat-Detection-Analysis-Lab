@@ -226,7 +226,9 @@ ________________________________________
 
 ## 📄 Detailed SOC Incident Report
 
-📥 [Download SOC Incident Report](https://github.com/dikshitdhawan/SIEM-Based-Threat-Detection-Analysis-Lab/blob/42f31b089761c9e37fba80a2bcd7aa674bd43af8/report/SOC_Report%201.docx)________________________________________
+📥 [Download SOC Incident Report](https://github.com/dikshitdhawan/SIEM-Based-Threat-Detection-Analysis-Lab/blob/42f31b089761c9e37fba80a2bcd7aa674bd43af8/report/SOC_Report%201.docx)
+
+________________________________________
 🎯 Why This Project Matters
 
 This project demonstrates real SOC analyst capabilities, including:
