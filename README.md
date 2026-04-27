@@ -1,4 +1,4 @@
-🛡️ SIEM-Based Threat Detection & Analysis Lab 
+## 🛡️ SIEM-Based Threat Detection & Analysis Lab 
 ________________________________________
 📌 Overview
 This project demonstrates a Security Operations Center (SOC) simulation lab designed to replicate real-world threat detection, monitoring, and incident analysis workflows.
